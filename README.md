@@ -33,7 +33,8 @@ Requirements
 
 Note: 
 The project fulfills all the requiremnets.
-One key feature is that once 'logout' is clicked on a page, then the cache of the browser is cleared so that the previous authenticated pages cannot be accessed. 
+One key feature is that once 'logout' is clicked on a page, then the cache of the browser is cleared so that the previous authenticated pages cannot be accessed.
+No styling is provided for the web pages. 
 
 Instructions to Run: 
 
